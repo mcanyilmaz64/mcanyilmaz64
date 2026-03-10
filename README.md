@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey,%20I'm%20Can!%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20·%20.NET%20·%20API%20Design&descAlignY=60&descColor=aaaaaa)
+![banner](https://raw.githubusercontent.com/mcanyilmaz64/mcanyilmaz64/main/banner.png)
 
 </div>
 
@@ -8,38 +8,52 @@
 
 <img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 🙋‍♂️ About Me
+###  About Me
 
 &nbsp;
 
-🔭 &nbsp; Building **N-Tier Architecture** apps with **.NET MVC**
+* &nbsp; Focused on building robust backend systems with **.NET & C#**
 
-🌱 &nbsp; Currently mastering **REST API design & best practices**
+* &nbsp; Constantly improving myself — learning never stops
 
-⚡ &nbsp; Passionate about **clean code & scalable systems**
+* &nbsp; Passionate about **clean architecture & writing maintainable code**
 
-💬 &nbsp; Ask me about **C#, REST API, SQL, Docker**
+* &nbsp; Ask me about **C#, .NET, REST API, SQL, Docker**
 
-📫 &nbsp; Reach me: **mcanyilmaz64@gmail.com**
+* &nbsp; Reach me: **mcyilmaz64@gmail.com**
 
 &nbsp;
 
 ---
 
-### 🛠️ Tech Stack
+###  Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mcanyilmaz64)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mcanyilmaz64)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcyilmaz64@gmail.com)
+
+</div>
+
+---
+
+###  Tech Stack
 
 &nbsp;
 
-**⚙️ Backend & Architecture**
+** Backend & Architecture**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge&logo=azuredevops&logoColor=white)
+![N--Tier Architecture](https://img.shields.io/badge/N--Tier_Architecture-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 &nbsp;
 
-**🗄️ Databases**
+** Databases**
 
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -47,7 +61,7 @@
 
 &nbsp;
 
-**🖥️ Frontend**
+** Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -56,7 +70,7 @@
 
 &nbsp;
 
-**🛠️ DevOps & Tools**
+** DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -65,7 +79,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
@@ -88,15 +102,6 @@
 
 ---
 
-### 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mcanyilmaz64)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mcanyilmaz64)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcyilmaz64@gmail.com)
-
-</div>
 
 ---
 
